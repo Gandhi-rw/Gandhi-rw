@@ -2,7 +2,7 @@
 - 👀 I’m interested in javascript-fullstack
 - 🌱 I’m currently learning reactjs, nodejs
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me at gandhirwema@gmail.com
+- 📫 gandhirwema@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
